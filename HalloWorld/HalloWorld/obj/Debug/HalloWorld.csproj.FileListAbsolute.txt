@@ -1,0 +1,6 @@
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe.config
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\bin\Debug\HalloWorld.pdb
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\obj\Debug\HalloWorld.exe
+C:\Users\Particular\Documents\Graduação\Novo\HalloWorld\HalloWorld\obj\Debug\HalloWorld.pdb
