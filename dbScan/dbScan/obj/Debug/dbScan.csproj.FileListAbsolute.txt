@@ -1,0 +1,9 @@
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\bin\Debug\dbScan.exe.config
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\bin\Debug\dbScan.exe
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\bin\Debug\dbScan.pdb
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.csprojResolveAssemblyReference.cache
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.Form1.resources
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.Properties.Resources.resources
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.csproj.GenerateResource.Cache
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.exe
+C:\Users\Particular\Documents\Graduação\Novo\dbScan\dbScan\obj\Debug\dbScan.pdb
